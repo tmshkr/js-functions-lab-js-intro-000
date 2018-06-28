@@ -1,1 +1,12 @@
-// write your code below!
+function happyHolidays{
+    
+}
+
+function happyHolidayTo{
+    
+}
+
+function holidayCountdown{
+    
+}
+
